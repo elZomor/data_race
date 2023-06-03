@@ -1,4 +1,4 @@
-package data_race;
+package dataRace;
 
 class Tomato {
     private int count = 0;

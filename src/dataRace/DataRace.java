@@ -1,4 +1,4 @@
-package data_race;
+package dataRace;
 
 
 class ShoppingList extends Thread{

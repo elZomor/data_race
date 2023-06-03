@@ -1,4 +1,4 @@
-package data_race;
+package dataRace;
 
 class ShoppingListSyncBlockClass extends Thread {
     static int tomatoCount = 0;

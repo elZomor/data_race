@@ -1,4 +1,4 @@
-package data_race;
+package dataRace;
 
 
 import java.util.concurrent.atomic.AtomicInteger;
