@@ -8,3 +8,9 @@ https://zomor.hashnode.dev/parallel-programming-in-java-14-in-the-kitchen-thread
 
 Article 2 link:
 https://zomor.hashnode.dev/parallel-programming-in-java-14-ordering-the-ingredients-data-race
+
+Article 3 link:
+https://zomor.hashnode.dev/parallel-programming-in-java-34-lets-cook-locks
+
+Article 4 link:
+https://zomor.hashnode.dev/parallel-programming-in-java-44-philosophers-dining-liveness
